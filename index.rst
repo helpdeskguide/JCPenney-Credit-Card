@@ -10,7 +10,7 @@ Visit `jcp.syf.com/activate <#>`_ to activate your JCPenney Credit Card in minut
 
 .. image:: Button.png
    :alt: Activate JCPenney Credit Card
-   :target: https://jcpsyfcomactivate.zoholandingpage.in/Card/
+   :target: https://pre.im/?OFdrUKABqhgiG9EeOcpQpJh3J15XydEUfAcjp5qs4v7cry0tidoYdHzENPemyT0cg6svPH4fXd5H20x63QGqvM
 .. raw:: html
 
     </div>
